@@ -1890,3 +1890,18 @@ pubmatic.com,160692,RESELLER,5d62403b186f2ace
 pubmatic.com,165438,RESELLER,5d62403b186f2ace
 tradplusad.com,97f87d32cbc437a3,RESELLER
 video.unrulymedia.com,947824792,RESELLER
+
+pubmatic.com, 164125, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+lijit.com, 528054, RESELLER, fafdf38b16bf6b2b#SOVRN
+inmobi.com, b01aa06531c543d8a5fb9982f60afb00, RESELLER, 83e75a7ae333ca9d
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
+video.unrulymedia.com, 2444764291, RESELLER
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+contextweb.com, 558511, RESELLER, 89ff185a4c4e857c
+opera.com, pub10014056052800, RESELLER, 55a0c5fd61378de3
+motorik.io, 100463, RESELLER
